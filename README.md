@@ -13,5 +13,5 @@ Second Floor - Down Hall Call
 
 Door open button
 
-Slow limit switches for slow don elevator when stop.
+Slow limit switches for slow down elevator when stop.
           
